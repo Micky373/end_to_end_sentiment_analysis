@@ -1,63 +1,41 @@
-# Project Name
+# End to end sentiment analysis
 
-> One paragraph statement about the project.
+> In this project I used textblob library in Python and tried to do some analysis on the text provided.
+I summerized the text, find out the sentiment and also point out the subjectivity of the text. I implemented a simple UI using HTML,CSS,JavaScript and also Flask as my API handling back end tool.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./images_and_gifs/app_screenshot.png)
 
-Additional description about the project and its features.
+
+<img  src="./images_and_gifs/demo.gif"> 
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Python, HTML, CSS, JavaScript, jQuery
+- Flask
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+> git clone `https://github.com/Micky373/end_to_end_sentiment_analysis.git`
+> cd end_to_end_sentiment_analysis
+> pip install -r requirements.txt
+> python app.py
+> Then go and on the terminal put this link (http://localhost:5000/)
+> Then put any text in the text area then click analyse
+> Then the result will be shown shortly
+> More clear discription about how the textblob implementation in the sentiment analysis can be found in the notebooks folder. There is a notebook called sentiment_analysis.ipynb
 
+## Author
 
-To get a local copy up and running follow these simple example steps.
+- GitHub: [@GitHub](https://github.com/Micky373)
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michaeltamirie/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Micky373/end_to_end_home_price_prediction_ml_project).
 
 ## Show your support
 
@@ -65,9 +43,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Special thanks to [Yaswanth Sai Palaghat](https://www.linkedin.com/in/yaswanthpalaghat/)
+- The UI implementation and code flow done with the help of [this course](https://drive.google.com/file/d/1II_kbygRFMkYyNL-_vj7RK70r_ZJhG8a/view?usp=sharing)
 
 ## 📝 License
 
