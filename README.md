@@ -17,12 +17,19 @@ I summerized the text, find out the sentiment and also point out the subjectivit
 ## Getting Started
 
 > git clone `https://github.com/Micky373/end_to_end_sentiment_analysis.git`
+
 > cd end_to_end_sentiment_analysis
+
 > pip install -r requirements.txt
+
 > python app.py
+
 > Then go and on the terminal put this link (http://localhost:5000/)
+
 > Then put any text in the text area then click analyse
+
 > Then the result will be shown shortly
+
 > More clear discription about how the textblob implementation in the sentiment analysis can be found in the notebooks folder. There is a notebook called sentiment_analysis.ipynb
 
 ## Author
