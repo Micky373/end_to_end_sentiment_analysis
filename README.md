@@ -26,7 +26,7 @@ I summerized the text, find out the sentiment and also point out the subjectivit
 
 > Then go and on the terminal put this link (http://localhost:5000/)
 
-> Then put any text in the text area then click analyse
+> Then put any text in the text area then click submit
 
 > Then the result will be shown shortly
 
