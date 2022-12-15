@@ -1,0 +1,4 @@
+textblob
+flask
+flask_bootstrap
+nltk
