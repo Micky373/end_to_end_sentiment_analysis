@@ -42,7 +42,7 @@ I summerized the text, find out the sentiment and also point out the subjectivit
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Micky373/end_to_end_home_price_prediction_ml_project).
+Feel free to check the [issues page](https://github.com/Micky373/end_to_end_sentiment_analysis/issues).
 
 ## Show your support
 
