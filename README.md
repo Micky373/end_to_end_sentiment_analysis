@@ -24,7 +24,7 @@ I summerized the text, find out the sentiment and also point out the subjectivit
 
 > python app.py
 
-> Then go and on the terminal put this link (http://localhost:5000/)
+> Then go and on any browser put this link (http://localhost:5000/)
 
 > Then put any text in the text area then click submit
 
