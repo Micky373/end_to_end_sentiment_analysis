@@ -52,7 +52,3 @@ Give a ⭐️ if you like this project!
 
 - Special thanks to [Yaswanth Sai Palaghat](https://www.linkedin.com/in/yaswanthpalaghat/)
 - The UI implementation and code flow done with the help of [this course](https://drive.google.com/file/d/1II_kbygRFMkYyNL-_vj7RK70r_ZJhG8a/view?usp=sharing)
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
